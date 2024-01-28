@@ -64,8 +64,6 @@ public class SubtitleDialog extends BaseDialog {
         selectLocal.setText(HomeActivity.getRes().getString(R.string.vod_sub_ext));
         selectRemote.setText(HomeActivity.getRes().getString(R.string.vod_sub_remote));
         subtitleSizeText.setText(HomeActivity.getRes().getString(R.string.vod_sub_size));
-        subtitleSizeText.setText(HomeActivity.getRes().getString(R.string.subtitleStyleOne));
-        subtitleSizeText.setText(HomeActivity.getRes().getString(R.string.subtitleStyleTwo));
         subtitleTimeText.setText(HomeActivity.getRes().getString(R.string.vod_sub_delay));
 
         // Internal Subtitle from Video File
