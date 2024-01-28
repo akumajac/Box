@@ -192,7 +192,7 @@
                     android:shadowDy="1"
                     android:shadowRadius="2"
                     android:text="字幕样式一"
-                    android:textColor="@color/color_C7C6CD"
+                    android:textColor="@color/color_354479"
                     android:textSize="@dimen/ts_20" />
 
                 <TextView
